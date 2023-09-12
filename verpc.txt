@@ -1,3 +1,4 @@
 0.4.20.0916
-0.4.20.0916\n功能修复\n\n解压密码请联系我
-https://wws.lanzous.com/iBfw7gogdze
+0.4.22.0525\n增加一个服务器\n\n0.4.20.0916\n功能修复\n\n解压密码请联系我
+https://pjp.coding.net/p/glrrs/d/glrrs/git/raw/master/update_pc/GLRRS简易版_0.4.22.0525.7z
+从2021.3.26开始，内网报告改为pdf格式，无法再提供doc等格式文件
